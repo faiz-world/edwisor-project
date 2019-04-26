@@ -4,7 +4,8 @@ Project Description -
 The aim of the project is to create Zomato kind of application using Angular. You will
 be using Zomato’s API as your backend and the frontend application that is to be
 created by you must have all the features mentioned later. Application UI should be
-designed by yourself using Bootstrap. You are not allowed to use boo
+designed by yourself using Bootstrap. You are not allowed to use bootstrap
+template available on internet.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
 
