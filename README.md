@@ -15,7 +15,7 @@ asked for enter manual location like city. According to city or location (latitu
 details. There should be one search bar. Where user can search the restaurants with
 location. After clicking on particular restaurant detailed page
 should be open.
-In case of queries, reach out to us at support@edwisor.com
+
 2) Details View - This view should contain all information like images, menu
 address with google map and other information related to restaurant. And bottom
 you should show the restaurant review in proper format like list view.
